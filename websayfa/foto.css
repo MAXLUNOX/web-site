@@ -1,0 +1,45 @@
+.navbar {
+    background-color: #ffffff;
+    overflow: hidden;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #810606;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+    background-color: #f40000;
+    color: rgb(240, 240, 240);
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 1;
+    padding: 1;
+    background-color: #7a7a7a;
+    font-size: 15px; 
+}
+
+.container {
+    margin-top: 20px;
+    padding: 16px;
+    background-color: white;
+    font-family: Arial, sans-serif;
+}
+
+#profile-pic {
+    width: 500px;
+    height: 500px;
+    border-radius: 10%;
+}
+#cat-pic {
+    width: 500px;
+    height: 500px;
+    border-radius: 10%;
+}
